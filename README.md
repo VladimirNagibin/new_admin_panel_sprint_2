@@ -27,6 +27,7 @@ cd new_admin_panel_sprint_2/docker_compose/simple_project/
 sudo docker compose up --build
 ```
 
+После запуска и загрузки тестовых данных админка будет доступна по адресу http://localhost/admin/
 
 
 ____
