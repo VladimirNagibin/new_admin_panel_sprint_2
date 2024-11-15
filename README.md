@@ -24,11 +24,11 @@ cd new_admin_panel_sprint_2/docker_compose/simple_project/
 
 Запустите приложение
 ```
-sudo docker compose up --build
+sudo docker compose up
 ```
 
 После запуска и загрузки тестовых данных админка будет доступна по адресу http://localhost/admin/. 
-Логин admin, пароль 123123.
+Логин: admin, пароль: 123123.
 
 ### Запросы к API:
 
