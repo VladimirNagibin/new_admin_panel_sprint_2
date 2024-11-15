@@ -22,6 +22,13 @@ git clone https://github.com/VladimirNagibin/new_admin_panel_sprint_2
 cd new_admin_panel_sprint_2/docker_compose/simple_project/
 ```
 
+Создайте файл .env 
+```
+touch .env
+```
+
+Заполните файл .env по шаблону .env.example
+
 Запустите приложение
 ```
 sudo docker compose up
