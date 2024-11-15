@@ -11,11 +11,23 @@
 
 ### Как развернуть проект:
 
-Склонируйте проект
+Склонируйте проект.
 
 ```
 git clone https://github.com/VladimirNagibin/new_admin_panel_sprint_2
 ```
+
+Перейдите в рабочую папку.
+```
+cd new_admin_panel_sprint_2/docker_compose/simple_project/
+```
+
+Запустите приложение.
+```
+sudo docker compose up --build
+```
+
+
 
 ____
 
